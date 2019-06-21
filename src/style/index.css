@@ -1,0 +1,6 @@
+@import './base.less';
+@import './ant-ui.less';
+
+#app {
+  min-width: 1200px;
+}
